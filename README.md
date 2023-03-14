@@ -6,3 +6,14 @@
     alt="Gitmoji"
   />
 </a>
+
+```
+# yarn
+yarn server
+
+# npm
+npm run server
+
+# pnpm
+pnpm server
+```
